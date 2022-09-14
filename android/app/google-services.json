@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "372034323219",
+    "firebase_url": "https://careercounselling-635bd.firebaseio.com",
+    "project_id": "careercounselling-635bd",
+    "storage_bucket": "careercounselling-635bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372034323219:android:3029ba2fedcc45ee02d0e6",
+        "android_client_info": {
+          "package_name": "com.example.careerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372034323219-ftbansnvvsrgp6fltmfk8u13k6d44pu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkmDcleSlKpsYC5wmjHncMJjBh6CfyZME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372034323219-ftbansnvvsrgp6fltmfk8u13k6d44pu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
